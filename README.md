@@ -15,9 +15,7 @@ Contacte-me on:
   
   This is going to be hidden.
   
-</details>
-
-Here are some ideas to get you started:
+  Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -30,3 +28,6 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
